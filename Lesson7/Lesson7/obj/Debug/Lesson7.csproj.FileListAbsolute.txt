@@ -1,0 +1,8 @@
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\bin\Debug\Lesson7.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\obj\Debug\Lesson7.Form1.resources
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\obj\Debug\Lesson7.Properties.Resources.resources
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.GenerateResource.Cache
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+c:\users\kei\documents\visual studio 2013\Projects\Lesson7\Lesson7\obj\Debug\Lesson7.pdb

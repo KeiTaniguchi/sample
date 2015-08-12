@@ -1,0 +1,9 @@
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\bin\Debug\Lesson6.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\bin\Debug\Lesson6.exe
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\bin\Debug\Lesson6.pdb
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\obj\Debug\Lesson6.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\obj\Debug\Lesson6.Form1.resources
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\obj\Debug\Lesson6.Properties.Resources.resources
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.GenerateResource.Cache
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\obj\Debug\Lesson6.exe
+c:\users\kei\documents\visual studio 2013\Projects\Lesson6\Lesson6\obj\Debug\Lesson6.pdb

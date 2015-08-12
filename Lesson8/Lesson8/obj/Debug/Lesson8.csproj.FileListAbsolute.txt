@@ -1,0 +1,9 @@
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\bin\Debug\Lesson8.exe.config
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\bin\Debug\Lesson8.exe
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\bin\Debug\Lesson8.pdb
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\obj\Debug\Lesson8.csprojResolveAssemblyReference.cache
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\obj\Debug\Lesson8.Form1.resources
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\obj\Debug\Lesson8.Properties.Resources.resources
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.GenerateResource.Cache
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\obj\Debug\Lesson8.exe
+c:\users\kei\documents\visual studio 2013\Projects\Lesson8\Lesson8\obj\Debug\Lesson8.pdb

@@ -1,0 +1,9 @@
+c:\users\kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\bin\Debug\Lessob9.exe.config
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\bin\Debug\Lessob9.exe
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\bin\Debug\Lessob9.pdb
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\obj\Debug\Lessob9.csprojResolveAssemblyReference.cache
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\obj\Debug\Lessob9.Form1.resources
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\obj\Debug\Lessob9.Properties.Resources.resources
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\obj\Debug\Lessob9.csproj.GenerateResource.Cache
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\obj\Debug\Lessob9.exe
+C:\Users\Kei\documents\visual studio 2013\Projects\Lessob9\Lessob9\obj\Debug\Lessob9.pdb
