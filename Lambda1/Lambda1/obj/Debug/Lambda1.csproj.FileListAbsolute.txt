@@ -1,1 +1,10 @@
 c:\users\kei\documents\visual studio 2013\Projects\Lambda1\Lambda1\bin\Debug\Lambda1.exe.config
+D:\gitHub_repo2\sample\Lambda1\Lambda1\bin\Debug\Lambda1.exe.config
+D:\gitHub_repo2\sample\Lambda1\Lambda1\bin\Debug\Lambda1.exe
+D:\gitHub_repo2\sample\Lambda1\Lambda1\bin\Debug\Lambda1.pdb
+D:\gitHub_repo2\sample\Lambda1\Lambda1\obj\Debug\Lambda1.csprojResolveAssemblyReference.cache
+D:\gitHub_repo2\sample\Lambda1\Lambda1\obj\Debug\Lambda1.Form1.resources
+D:\gitHub_repo2\sample\Lambda1\Lambda1\obj\Debug\Lambda1.Properties.Resources.resources
+D:\gitHub_repo2\sample\Lambda1\Lambda1\obj\Debug\Lambda1.csproj.GenerateResource.Cache
+D:\gitHub_repo2\sample\Lambda1\Lambda1\obj\Debug\Lambda1.exe
+D:\gitHub_repo2\sample\Lambda1\Lambda1\obj\Debug\Lambda1.pdb

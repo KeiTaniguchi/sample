@@ -7,3 +7,6 @@ c:\users\kei\documents\visual studio 2013\Projects\Lesson12\Lesson12\obj\Debug\L
 c:\users\kei\documents\visual studio 2013\Projects\Lesson12\Lesson12\obj\Debug\Lesson12.csproj.GenerateResource.Cache
 c:\users\kei\documents\visual studio 2013\Projects\Lesson12\Lesson12\obj\Debug\Lesson12.exe
 c:\users\kei\documents\visual studio 2013\Projects\Lesson12\Lesson12\obj\Debug\Lesson12.pdb
+D:\gitHub_repo2\sample\Lesson12\Lesson12\bin\Debug\Lesson12.exe.config
+D:\gitHub_repo2\sample\Lesson12\Lesson12\obj\Debug\Lesson12.exe
+D:\gitHub_repo2\sample\Lesson12\Lesson12\obj\Debug\Lesson12.pdb
